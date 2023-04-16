@@ -1,0 +1,10 @@
+namespace hi
+{
+    public class Class1
+    {
+        public static int Getid()
+        {
+            return 20;
+        }
+    }
+}
